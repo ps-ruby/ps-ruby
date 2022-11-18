@@ -8,7 +8,7 @@
 </br>
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-ruby&theme=tokyonight&langs_count=6&layout=compact&hide=tsql,html,pug,css" alt="Prakash Sanyasi Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-ruby&theme=tokyonight&langs_count=6&layout=compact" alt="Prakash Sanyasi Github Stats">
 
 </br>
 </br>
